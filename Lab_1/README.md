@@ -4,7 +4,7 @@
 - **Họ và tên:** Phạm Đỗ Hoàng Luân
 - **Mã số sinh viên (MSSV):** 1150070026
 - **Lớp:** 11_ĐH_TMĐT
-Linh youtube : 
+Linh youtube : https://www.youtube.com/watch?v=xYBDQQewww4
 - **Học phần:** An toàn và Bảo mật Thông tin (Thực hành)
 - **Nền tảng & Công nghệ sử dụng:**
   - **Ngôn ngữ & SDK:** Java (JDK 17 / JDK 21)
